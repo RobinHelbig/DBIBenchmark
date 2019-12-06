@@ -5,7 +5,7 @@ import java.sql.*;
 public class Main {
     public static void main(String[] args) throws SQLException {
         // config
-        final String server = "JonasVM";
+        final String server = "DBI25";
         final String instance = "DBISQL";
         final String database = "benchmark";
         final String user = "dbi";
